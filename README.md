@@ -1,5 +1,6 @@
 # SSR-can-t-recoginze-QR-Code
-解決電腦版小飛機無法解析二維碼
+
+#### 在升級了shadowrocket後我們分享的二維碼(低版本不存在這種情況），shadowsocksr無法解析二維碼，會出現如下的圖片。怎麼解決呢？
 
 ### 聯繫方式 :bell:
 
